@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/smile/static/css/main.94e973da.css",
-    "main.js": "/smile/static/js/main.becd779f.js",
+    "main.js": "/smile/static/js/main.63586231.js",
     "index.html": "/smile/index.html",
     "main.94e973da.css.map": "/smile/static/css/main.94e973da.css.map",
-    "main.becd779f.js.map": "/smile/static/js/main.becd779f.js.map"
+    "main.63586231.js.map": "/smile/static/js/main.63586231.js.map"
   },
   "entrypoints": [
     "static/css/main.94e973da.css",
-    "static/js/main.becd779f.js"
+    "static/js/main.63586231.js"
   ]
 }
